@@ -1,0 +1,13 @@
+
+
+.matn{
+    height: 80px;
+    padding: 10px;
+    position: absolute;
+    left: 1100px;
+}
+.matn-2{
+    padding: 10px;
+    font-size: 30px;
+    color: white;
+}
